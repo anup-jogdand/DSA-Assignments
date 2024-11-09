@@ -154,7 +154,7 @@ void create(struct node **head)
 
     {
 
-        printf("Enter number: ");
+        printf("Enter Input number: ");
 
         scanf("%d", &c);
 
